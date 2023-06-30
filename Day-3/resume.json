@@ -1,0 +1,44 @@
+{
+    "basics": {
+      "name": "Mohan Raj M",
+      "email": "raj17abd@gmail.com",
+      "phone": "9003293647",
+      "degree": "B.SC(c.s)",
+      "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+      "location": {
+        "address": "Edayanchavadi, Chennai - 600103",
+        "state": "Tamilnadu",
+        "country": "India"
+      }
+    },
+    "work": [
+      {
+        "company": "Contus Tech Private Limited",
+        "position": "Senior UI/UX Developer",
+        "website": "www.contus.com",
+        "summary": "My role is i will convert XD or PSD files into web and mobile pages"
+      }
+    ],
+    "education": [
+      {
+        "institution": "B.SC(c.s)",
+        "area": "Minjur",
+        "passedoutyear": "2015"
+      }
+    ],
+    "skills": [
+      {
+        "keywords": ["HTML", "CSS", "Bootstrap"]
+      }
+    ],
+    "languages": [
+      {
+        "keywords": ["Tamil", "English"]
+      }
+    ],
+    "interests": [
+      {
+        "keywords": ["Cricket", "Football"]
+      }
+    ]
+  }
